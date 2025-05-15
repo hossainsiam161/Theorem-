@@ -1,6 +1,7 @@
 # Theorem-
-Please contribute your Number Theorem Fact or Knowledge! <br>
+Please contribute your Number Theorem Fact or Knowledge!<br>
 Format: <br>
-[SN]. [Fact] <br>
+[SN]. [Title] <br>
+[Fact] <br>
 Example: <br>
-1. Multiplying 4 contiguous integers and add 1 to them, you get a square number.<br>
+1. Multiplying 4 contiguous integers and add 1 to them, you get a square number.
