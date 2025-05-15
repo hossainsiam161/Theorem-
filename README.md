@@ -1,2 +1,2 @@
 # Theorem-
-Please contribute your Number Theorem Knowledge 
+Please contribute your Number Theorem Knowledge or Fact! 
